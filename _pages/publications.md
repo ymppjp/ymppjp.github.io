@@ -1,5 +1,6 @@
 ---
-permalink: /publications
+#permalink: /publications
+permalink: https://ymppjp.github.io/
 title: "Publications"
 #excerpt: "About me"
 author_profile: true
