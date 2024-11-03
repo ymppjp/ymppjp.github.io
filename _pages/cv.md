@@ -11,54 +11,54 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D (Doctor of Engineering) in Environment and Information Science,  Yokohama National University, 2016
+* M.Phil in Infrastructure Management, Yokohama National University, 2013
+* B.E in Information Technology Engineering, Mandalay Technological University, Myanmar, 2006
 
-Work experience
+Professional Experiences
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Specially Appointed Associate Professor, Yokohama National University, Japan (2022 ~ Current)
+* Senior Researcher, Consulting Firm, Japan (2019 ~ 2022)
+* Researcher, Consulting Firm, Japan (2016 ~ 2019)
+* Research Assistant (Part-time), Yokohama National University, Japan (2013 ~ 2016)
+* IT engineer, Myanmar (2006 ~ 2011)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Community Services
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Committee,The Asia Joint Conference on Information Security (AsiaJCIS) 2024 [link](https://asiajcis2024.web2.ncku.edu.tw/p/412-1192-26007.php?Lang=en)
+* Committee,BWS（Blockchain Security Workshop, IWSEC 2024 [link](https://www.iwsec.org/bws/)
+* Committee, IEEE Conference on Dependable and Secure Computing 2024 [link](https://attend.ieee.org/dsc-2024/organization-and-program-committee/)
+* Adviser, Scholars' Research Presentation, 49th Iwatani International Scholarship “4th Regular Meeting”, Naoji Iwatani Memorial Foundation,  (2023/12/07)
+* Reviewer, Institute of Electronics, Information and Communication Engineers, Japan (2023)
+* Committee, International Conference on Advanced Information Technologies (ICAIT),Myanmar (2018 ~ current)
+* Reviewer, Jordanian Journal of Computers and Information Technology, 2018
+* Committee Member, The 13th International Workshop on Security (2016 ~ 2018)
+* Subviewer, Building Analysis Datasets and Gathering Experience Returns for Security (BADGER) (2015)
+
+
+Research Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+
+* Best Paper Award, CSS, Japan (2023)
+* Best Paper Award, IPSJ, Japan (2016)
+* Best Paper Award, Asia-JCIS, Korea (2013)
+* Best Technical Report Award of Year, Information and Communication System Security (ICSS), Japan (2013)
+
+
+Other Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+
+* Research Support Scholarship for Woman Technicians, Yokohama National University, Japan. (2015)
+* Honjo International Scholarships (Honjo International Scholarship Foundation), Japan. (2014 ~ 2015)
+* Iwatani International Scholarships (The Iwatani Naoji Foundation), Japan.(2013)
+* World Bank Scholarship, Infrastructure Management Program at YNU, Japan.(2011 ~ 2012)
+
+
+Speaking Languages
 ======
-* Currently signed in to 43 different slack teams
+
+* Japanese
+* English
+* Burmese
