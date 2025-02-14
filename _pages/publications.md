@@ -7,6 +7,24 @@ redirect_from:
   - /publications/
   #- /about.html
 ---
+
+## 2025
+
+* Riku Aoto, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Discovery and Analysis of Cybercrime-Related Telegram Channels using the Similar Channel Recommendation Feature, ICSS 2025, Japan. [Conference Page](https://ken.ieice.org/ken/program/index.php?tgs_regid=7d40e0d1fbc823c402c27c393bae23134140f3b86336e69dc2ce7ec212b50b80&tgid=IEICE-ICSS), [paper](https://ymppjp.github.io/files/ICSS_2025_aotokun.pdf) 
+
+* Suzuki Ryosuke, Yamato Kawaguchi, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Hiroaki Yamaoka, Katsunari Yoshioka, ICSS 2025, Japan. Text-based Human Intelligence Gathering Framework: Legal and Ethical Considerations and the Application of LLMs, ICSS 2025, Japan. [Conference Page](https://ken.ieice.org/ken/program/index.php?tgs_regid=7d40e0d1fbc823c402c27c393bae23134140f3b86336e69dc2ce7ec212b50b80&tgid=IEICE-ICSS), [paper](https://ymppjp.github.io/files/ICSS_2025_suzuki_ryo.pdf) 
+
+* Yukihiro Higashi, Hikaru Matsuzawa, Rui Tanabe, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Evaluating the Classification Accuracy of an LLM for Sandbox Evasion Proof-of-Concept Code, ICSS 2025, Japan. [Conference Page](https://ken.ieice.org/ken/program/index.php?tgs_regid=7d40e0d1fbc823c402c27c393bae23134140f3b86336e69dc2ce7ec212b50b80&tgid=IEICE-ICSS), [paper](https://ymppjp.github.io/files/.pdf) 
+
+* Koudai Aoyama, Ruri Otsuka, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Towards Evaluating the Detection Accuracy of Internet-Wide Scanners for Frequently Exploited Vulnerabilities, ICSS 2025, Japan. [Conference Page](https://ken.ieice.org/ken/program/index.php?tgs_regid=7d40e0d1fbc823c402c27c393bae23134140f3b86336e69dc2ce7ec212b50b80&tgid=IEICE-ICSS), [paper](https://ymppjp.github.io/files/ICSS_2024_Aoyama_kun.pdf) 
+
+* Qingxin Mao, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, Linking IoT Attacks to Cybercrime-as-a-Service Offerings Using LLM and DNS Data, ICSS 2025, Japan. [Conference Page](https://ken.ieice.org/ken/program/index.php?tgs_regid=7d40e0d1fbc823c402c27c393bae23134140f3b86336e69dc2ce7ec212b50b80&tgid=IEICE-ICSS), [paper](https://ymppjp.github.io/files/ICSS_2025_moukun.pdf) 
+ 
+* Iori Suzuki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Nguyen Anh Thi Van, and Katsunari Yoshioka, DeFiIntel: A Dataset Bridging On-Chain and Off-Chain Data for DeFi Token Scam Investigation, MADWEB 2025 (NDSS colocated workshop 42% acceptance rate), San Diego, California, from 24 to 28 February 2025. [Conference Page](https://madweb.work/), [paper](https://ymppjp.github.io/files/NDSS2025_Project_Suzuki_Iori.pdf) 
+
+* Ruri Otsuka, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Application of ChatGPT Search to Device Inferrance Focusing on Basic Authentication Requests and Responses. SCIS 2025, Japan. [Conference Page](https://www.iwsec.org/scis/2025/program.html), [paper](https://ymppjp.github.io/files/2025_SCIS_Otsuka_san.pdf) 
+
+
 ## 2024
 
 * Zhewei Huang, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Exploring the Impact of LLM Assisted Malware Variants on Anti-Virus Detection, IEEE DSC 2024, Japan. [Conference Page](https://attend.ieee.org/dsc-2024/conference-agenda/#program-day2), [paper](https://ymppjp.github.io/files/dsc_2024_kou.pdf) 
@@ -21,7 +39,7 @@ redirect_from:
 
 * Ruri Otsuka, Kiyokazu Yoshioka, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, "Investigation of Device Fingerprinting Focused on Basic Authentication Requests", CSS 2024, Japan. [Conference Page](https://www.iwsec.org/css/2024/program.html), [paper](https://ymppjp.github.io/files/Otsukasan_CSS_2024.pdf)
 
-* Ryu Kuki1, Sasaki Takayuki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka "Towards the Classification of Newly Exploits Observed by Honeypots", CSS 2024, Japan. **{Best Paper Award}**. [Conference Page](https://www.iwsec.org/css/2024/program.html), [paper](https://ymppjp.github.io/files/CSS2024_kukikun.pdf)
+* Ryu Kuki, Sasaki Takayuki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka "Towards the Classification of Newly Exploits Observed by Honeypots", CSS 2024, Japan. **{Best Paper Award}**. [Conference Page](https://www.iwsec.org/css/2024/program.html), [paper](https://ymppjp.github.io/files/CSS2024_kukikun.pdf)
 
 * Iori Suzuki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka "Building a Dataset for Accelerating Researches against Fraudulent DeFi Tokens", Security Summer Summit 2024 Hokkaido Japan, 2024 July 22~23. [Conference Page](https://ken.ieice.org/ken/paper/20240722YcEa/), [paper](https://ymppjp.github.io/files/SSS_suzuki.pdf) 
 
