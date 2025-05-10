@@ -35,7 +35,7 @@ redirect_from:
 
 * Yamato Kawaguchi, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, “Investigation of Cybercrime-Related Slang on Discord Using Large Language Models”, CSS 2024, Japan. [Conference Page](https://www.iwsec.org/css/2024/program.html), [paper](https://ymppjp.github.io/files/202408_CSS_Discord_Slang.pdf) 
 
-* Hikaru Matsuzawa、Soda Kubo, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Tanabe Rui、Katsunari Yoshioka, “Investigating the Impact of Evasive Malware Created with LLM on Sandbox Analysis”, CSS 2024, Japan. [Conference Page](https://www.iwsec.org/css/2024/program.html), [paper](https://ymppjp.github.io/files/.pdf) 
+* Hikaru Matsuzawa、Soda Kubo, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Tanabe Rui、Katsunari Yoshioka, “Investigating the Impact of Evasive Malware Created with LLM on Sandbox Analysis”, CSS 2024, Japan. [Conference Page](https://www.iwsec.org/css/2024/program.html), [paper](https://ymppjp.github.io/files/CSS2024_matsuzawa.pdf) 
 
 * Ruri Otsuka, Kiyokazu Yoshioka, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, "Investigation of Device Fingerprinting Focused on Basic Authentication Requests", CSS 2024, Japan. [Conference Page](https://www.iwsec.org/css/2024/program.html), [paper](https://ymppjp.github.io/files/Otsukasan_CSS_2024.pdf)
 
