@@ -19,7 +19,7 @@ redirect_from:
 
 * Rei Tanabe, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, Kento Uchida, Shinichi Shirakawa, A Framework for Iterative Sandbox Evasion Code Generation Using Attacker and Defender LLMs, Security Summer Summit (ICSS), Hokkaido, Japan.　[Conference Page](https://ken.ieice.org/ken/program/index.php?tgs_regid=7a8413451964447d206e23030452f432947c8e4709d99910ec06cb619c1464ba&tgid=IEICE-ICSS), [paper](https://ymppjp.github.io/files/SSS2025_tanabe.pdf)
 
-* Sha Peng, <strong><strong><em>YYinn Minn Pa Pa</em></strong></strong>, Takayuki Sasaki, Katsunari Yoshioka, Exploration of IoT Platforms Utilizing Censys Internet-wide Scanning System, CSEC 2025, Gunma, Japan.　[Conference Page](https://www.ipsj.or.jp/kenkyukai/event/dps202csec108.html), [paper](https://ymppjp.github.io/files/CSEC2025_Housan.pdf) 
+* Sha Peng, <strong><strong><em>Yinn Minn Pa Pa</em></strong></strong>, Takayuki Sasaki, Katsunari Yoshioka, Exploration of IoT Platforms Utilizing Censys Internet-wide Scanning System, CSEC 2025, Gunma, Japan.　[Conference Page](https://www.ipsj.or.jp/kenkyukai/event/dps202csec108.html), [paper](https://ymppjp.github.io/files/CSEC2025_Housan.pdf) 
 
 * Riku Aoto, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Discovery and Analysis of Cybercrime-Related Telegram Channels using the Similar Channel Recommendation Feature, ICSS 2025, Japan. [Conference Page](https://ken.ieice.org/ken/program/index.php?tgs_regid=7d40e0d1fbc823c402c27c393bae23134140f3b86336e69dc2ce7ec212b50b80&tgid=IEICE-ICSS), [paper](https://ymppjp.github.io/files/ICSS_2025_aotokun.pdf) 
 
