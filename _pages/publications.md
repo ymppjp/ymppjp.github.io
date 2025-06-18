@@ -11,16 +11,15 @@ redirect_from:
 ## 2025
 
 
-* Yukihiro Higashi, Hikaru Matsuzawa, Rui Tanabe, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Poster: Conventional LLM Use Struggles to Generate Sandbox Evasion Code from Unseen Categories, Euro S&P, Venice, June 30 - July 4, 2025.
+* Yukihiro Higashi, Hikaru Matsuzawa, Rui Tanabe, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Poster: Conventional LLM Use Struggles to Generate Sandbox Evasion Code from Unseen Categories, Euro S&P, Venice, June 30 - July 4, 2025. 
 
-* Takanori Matsumura, Riku Aoto, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, Experimental Demonstration of Attracting Attackers to Attack Observation Systems by Imitating Initial Access Brokers on Telegram, Security Summer Summit (ICSS), Hokkaido, Japan. 
+* Takanori Matsumura, Riku Aoto, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, Experimental Demonstration of Attracting Attackers to Attack Observation Systems by Imitating Initial Access Brokers on Telegram, Security Summer Summit (ICSS), Hokkaido, Japan. [Conference Page](https://ken.ieice.org/ken/program/index.php?tgs_regid=7a8413451964447d206e23030452f432947c8e4709d99910ec06cb619c1464ba&tgid=IEICE-ICSS)[paper](https://ymppjp.github.io/files/SSS2025_matsumura.pdf)
 
-* Shoi Kaneko, Riku Aoto, Nguyen Thi Van Anh, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, STIX Threat Intelligence Extraction from Telegram via Prompt-Aligned LLM, Security Summer Summit (ICSS), Hokkaido, Japan. 
+* Shoi Kaneko, Riku Aoto, Nguyen Thi Van Anh, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, STIX Threat Intelligence Extraction from Telegram via Prompt-Aligned LLM, Security Summer Summit (ICSS), Hokkaido, Japan. [Conference Page](https://ken.ieice.org/ken/program/index.php?tgs_regid=7a8413451964447d206e23030452f432947c8e4709d99910ec06cb619c1464ba&tgid=IEICE-ICSS)[paper](https://ymppjp.github.io/files/SSS2025_kaneko.pdf)
 
-* Rei Tanabe, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, Kento Uchida, Shinichi Shirakawa, A Framework for Iterative Sandbox Evasion Code Generation Using Attacker and Defender LLMs, Security Summer Summit (ICSS), Hokkaido, Japan. 
+* Rei Tanabe, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, Kento Uchida, Shinichi Shirakawa, A Framework for Iterative Sandbox Evasion Code Generation Using Attacker and Defender LLMs, Security Summer Summit (ICSS), Hokkaido, Japan.　[Conference Page](https://ken.ieice.org/ken/program/index.php?tgs_regid=7a8413451964447d206e23030452f432947c8e4709d99910ec06cb619c1464ba&tgid=IEICE-ICSS), [paper](https://ymppjp.github.io/files/SSS2025_tanabe.pdf)
 
-* Sha Peng1, <strong><strong><em>YYinn Minn Pa Pa</em></strong></strong>, Takayuki Sasaki2, Katsunari Yoshioka1, Exploration of IoT Platforms Utilizing Censys Internet-wide
-Scanning System, CSEC 2025, Gunma, Japan. 
+* Sha Peng, <strong><strong><em>YYinn Minn Pa Pa</em></strong></strong>, Takayuki Sasaki, Katsunari Yoshioka, Exploration of IoT Platforms Utilizing Censys Internet-wide Scanning System, CSEC 2025, Gunma, Japan.　[Conference Page](https://www.ipsj.or.jp/kenkyukai/event/dps202csec108.html), [paper](https://ymppjp.github.io/files/CSEC2025_Housan.pdf) 
 
 * Riku Aoto, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Discovery and Analysis of Cybercrime-Related Telegram Channels using the Similar Channel Recommendation Feature, ICSS 2025, Japan. [Conference Page](https://ken.ieice.org/ken/program/index.php?tgs_regid=7d40e0d1fbc823c402c27c393bae23134140f3b86336e69dc2ce7ec212b50b80&tgid=IEICE-ICSS), [paper](https://ymppjp.github.io/files/ICSS_2025_aotokun.pdf) 
 
