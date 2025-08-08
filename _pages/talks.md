@@ -7,6 +7,10 @@ redirect_from:
   - /talks/
   #- /about.html
 ---
+## 2025
+
+* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>Invited Talk: AI Meets Cybercrime: From Simulation to Structured Intelligence of Cybercrime Ecosystems,Asia JCIS 2025, Seoul, Korea. (2025/08/12~13). [External Link](https://asiajcis2025.sch.ac.kr/program.html)
+
 ## 2024
 
 * <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, The Abuse of AI in Cybersecurity, 7th Workshop on Intelligent IoT for Empowering People's Lifestyle and Well-being, Kyoto Japan. (2024/02/27 ~ 28).[External Link](https://web.sfc.keio.ac.jp/~t19486mt/a3foresight/ws7/program.html)
