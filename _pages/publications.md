@@ -11,7 +11,7 @@ redirect_from:
 ## 2025
 *  <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Yuji Sekine, Yamato Kawaguchi, Tatsuki Yogo, Kelvin Lubbertsen, Rolf van Wegberg, Michel van Eeten, Katsunari Yoshioka, A Longitudinal Analysis of LockBit 3.0's Extorsion Lifecycle and Response to Law Enforcement, The 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025), Gold Coast, Australia, 19-22 October, 2025. (Acceptance Rate: 22~25 %)
 
-* Yukihiro Higashi, Hikaru Matsuzawa, Rui Tanabe, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Poster: Conventional LLM Use Struggles to Generate Sandbox Evasion Code from Unseen Categories, Euro S&P, Venice, June 30 - July 4, 2025. [Poster] (https://ympp.github.io/files/eurosp25_posters_higashi_kun.pdf)
+* Yukihiro Higashi, Hikaru Matsuzawa, Rui Tanabe, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Poster: Conventional LLM Use Struggles to Generate Sandbox Evasion Code from Unseen Categories, Euro S&P, Venice, June 30 - July 4, 2025. [Poster](https://ympp.github.io/files/eurosp25_posters_higashi_kun.pdf)
 
 * Takanori Matsumura, Riku Aoto, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, Experimental Demonstration of Attracting Attackers to Attack Observation Systems by Imitating Initial Access Brokers on Telegram, Security Summer Summit (ICSS), Hokkaido, Japan. [Conference Page](https://ken.ieice.org/ken/program/index.php?tgs_regid=7a8413451964447d206e23030452f432947c8e4709d99910ec06cb619c1464ba&tgid=IEICE-ICSS), [paper](https://ymppjp.github.io/files/SSS2025_matsumura.pdf)
 
