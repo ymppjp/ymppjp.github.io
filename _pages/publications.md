@@ -115,7 +115,7 @@ Channels on Telegram at Scale, ICSS, 2026, Japan. [Conference Page](https://ken.
 
 ## 2022
 
-* Hiroshi Mori, Hiroshi Kumagai, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Yuta Takata, Ryoya Furukawa, Yuji Sakurai, Masaki Kamizono, "Cryptocurrency Analysis System for Investigating Cyber Crime Economy", ICSS Japan, 2022. [Conference Page](https://ken.ieice.org/ken/paper/20220720oCkV/). <span style="color:#1E90FF;"><strong>[International Conference]</strong></span> 
+* Hiroshi Mori, Hiroshi Kumagai, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Yuta Takata, Ryoya Furukawa, Yuji Sakurai, Masaki Kamizono, "Cryptocurrency Analysis System for Investigating Cyber Crime Economy", ICSS Japan, 2022. [Conference Page](https://ken.ieice.org/ken/paper/20220720oCkV/). 
 
 
 ## 2021
