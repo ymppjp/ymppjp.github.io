@@ -17,7 +17,8 @@ redirect_from:
 Cybercrime Channels, ICSS, 2026, Japan. [Conference Page](https://ken.ieice.org/ken/program/index.php tgs_regid=c6495934c1b85b0d3c6a946345840f1069ebe39bb64b3ce492a3ee87dd6e04c2&tgid=IEICE-ICSS), [paper](https://ymppjp.github.io/files/ICSS2026_baba.pdf)
 
 
-* Riku Aoto,Daiki Baba, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, , ICSS, 2026, Japan. [Conference Page](https://ken.ieice.org/ken/program/index.php tgs_regid=c6495934c1b85b0d3c6a946345840f1069ebe39bb64b3ce492a3ee87dd6e04c2&tgid=IEICE-ICSS), [paper](https://ymppjp.github.io/files/ICSS2026_aoto.pdf)
+* Riku Aoto,Daiki Baba, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Collecting and Categorizing Cybercrime-Related
+Channels on Telegram at Scale, ICSS, 2026, Japan. [Conference Page](https://ken.ieice.org/ken/program/index.php tgs_regid=c6495934c1b85b0d3c6a946345840f1069ebe39bb64b3ce492a3ee87dd6e04c2&tgid=IEICE-ICSS), [paper](https://ymppjp.github.io/files/ICSS2026_aoto.pdf)
 
 * Hikaru Matsuzawa, Yukihiro Higashi, Anh Nguyen Thi Van, Rui Tanabe,<strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, LLM-Based Generation of Proof-of-Concept Code for Evading Sandbox Analysis, ICSS, 2026, Japan. **{Best Paper Award}**. [Conference Page](https://ken.ieice.org/ken/program/index.php tgs_regid=c6495934c1b85b0d3c6a946345840f1069ebe39bb64b3ce492a3ee87dd6e04c2&tgid=IEICE-ICSS), [paper](https://ymppjp.github.io/files/ICSS_Evasive_Malware.pdf)
 
