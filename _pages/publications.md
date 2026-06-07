@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## 2026 
 
-* Ruri Otsuka, Ryu Kuki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, POSTER: What HTTP Basic Authentication Reveals: Measuring Identifiable Internet-Exposed Devices, DIMVA, 2026, Greece. [Conference Page](https://www.dimva.org/dimva2026/).<span style="color:#1E90FF;"><strong>[Poster:DIMVA]</strong></span>
+* Ruri Otsuka, Ryu Kuki, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, POSTER: What HTTP Basic Authentication Reveals: Measuring Identifiable Internet-Exposed Devices, DIMVA, 2026, Greece. [Conference Page](https://www.dimva.org/dimva2026/). <span style="color:#1E90FF;"><strong>[Poster:DIMVA]</strong></span>
 
 * Towa Kaido, Shogo Ito, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Disposable accounts, persistent ecosystem: A cross-forum study of Initial Access Brokers, Cambridge Cybercrime Conference, UK, 2026. [Conference Page](https://www.cambridgecybercrime.uk/conference2026.html).<span style="color:#1E90FF;"><strong>[Cambridge Cybercrime Conference]</strong></span>
 
@@ -22,12 +22,12 @@ Channels on Telegram at Scale, ICSS, 2026, Japan. [Conference Page](https://ken.
 
 * Hikaru Matsuzawa, Yukihiro Higashi, Anh Nguyen Thi Van, Rui Tanabe,<strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, LLM-Based Generation of Proof-of-Concept Code for Evading Sandbox Analysis, ICSS, 2026, Japan. **{Best Paper Award}**. [Conference Page](https://ken.ieice.org/ken/program/index.php tgs_regid=c6495934c1b85b0d3c6a946345840f1069ebe39bb64b3ce492a3ee87dd6e04c2&tgid=IEICE-ICSS), [paper](https://ymppjp.github.io/files/ICSS_Evasive_Malware.pdf)
 
-* Qingxin Mao, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, Understanding Web-Exposed Cybercrime-Related Content on IoT Botnet Infrastructure, ICSS, 2026, Japan.[Conference Page](https://ken.ieice.org/ken/program/index.php tgs_regid=c6495934c1b85b0d3c6a946345840f1069ebe39bb64b3ce492a3ee87dd6e04c2&tgid=IEICE-ICSS), [paper](https://ymppjp.github.io/files/ICSS2026_Mao.pdf) 
+* Qingxin Mao, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, Understanding Web-Exposed Cybercrime-Related Content on IoT Botnet Infrastructure, ICSS, 2026, Japan. [Conference Page](https://ken.ieice.org/ken/program/index.php tgs_regid=c6495934c1b85b0d3c6a946345840f1069ebe39bb64b3ce492a3ee87dd6e04c2&tgid=IEICE-ICSS), [paper](https://ymppjp.github.io/files/ICSS2026_Mao.pdf) 
 
-* Anh Nguyen Van, Matsuzawa Hikaru, Ito Hikaru,<strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, Leveraging LLMs to Generate and Counter Sandbox Evasion Techniques, NDSS 2026, USA. [poster](https://ymppjp.github.io/files/ndss26-poster-53.pdf)[Conference Page](https://www.ndss-symposium.org/ndss2026/accepted-posters/).<span style="color:#1E90FF;"><strong>[Poster:NDSS]</strong></span>
+* Anh Nguyen Van, Matsuzawa Hikaru, Ito Hikaru,<strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, Leveraging LLMs to Generate and Counter Sandbox Evasion Techniques, NDSS 2026, USA. [Conference Page](https://www.ndss-symposium.org/ndss2026/accepted-posters/) [poster](https://ymppjp.github.io/files/ndss26-poster-53.pdf). <span style="color:#1E90FF;"><strong>[Poster:NDSS]</strong></span>
 
 ## 2025
-* Rikuto Otsu,<strong><strong><em> Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, and Kazumasa Omote, An Analysis of Syntactic Evolution and Detection Performance in Smart Ponzi Schemes, ICBAT, 2025,Kanazawa, Japan.[Conference Page](https://www.icbta.net/), [paper](https://ymppjp.github.io/files/ICBTA_otsu_tsukuba.pdf). <span style="color:#1E90FF;"><strong>[ICBAT 2025]</strong></span> 
+* Rikuto Otsu,<strong><strong><em> Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, and Kazumasa Omote, An Analysis of Syntactic Evolution and Detection Performance in Smart Ponzi Schemes, ICBAT, 2025,Kanazawa, Japan. [Conference Page](https://www.icbta.net/), [paper](https://ymppjp.github.io/files/ICBTA_otsu_tsukuba.pdf). <span style="color:#1E90FF;"><strong>[ICBAT 2025]</strong></span> 
 
 * Ruri Otsuka, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Large-Scale Experiment on IoT Device Identification Using Basic Authentication Responses, CSS, 2025, Japan. [Conference Page](https://www.iwsec.org/css/2025/program.html), [paper](https://ymppjp.github.io/files/CSS_otsuka.pdf)
 
@@ -45,9 +45,9 @@ Channels on Telegram at Scale, ICSS, 2026, Japan. [Conference Page](https://ken.
 
 * Hikaru Ito, Nguyen Thi Van Anh,  <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Rui Tanabe, Katsunari Yoshioka, Enhancing Sandbox Evasion Resistance Using LLM, CSS 2025,Japan.  [Conference Page](https://www.iwsec.org/css/2025/program.html), [paper](https://ymppjp.github.io/files/ItoHikaru_CSS2025.pdf)
 
-* Rikuto Otsu, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Kazumasa Omote, Investigating the Evolution of Syntax and Detection Eﬀectiveness in Smart Ponzi Schemes, CSS, 2025, Japan.[Conference Page](https://www.iwsec.org/css/2025/program.html), [paper](https://ymppjp.github.io/files/CSS_otsu_tsukuba_revise.pdf)
+* Rikuto Otsu, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Kazumasa Omote, Investigating the Evolution of Syntax and Detection Eﬀectiveness in Smart Ponzi Schemes, CSS, 2025, Japan. [Conference Page](https://www.iwsec.org/css/2025/program.html), [paper](https://ymppjp.github.io/files/CSS_otsu_tsukuba_revise.pdf)
 
-* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Yuji Sekine, Yamato Kawaguchi, Tatsuki Yogo, Kelvin Lubbertsen, Rolf van Wegberg, Michel van Eeten, Katsunari Yoshioka, A Longitudinal Analysis of LockBit 3.0's Extorsion Lifecycle and Response to Law Enforcement, The 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025), Gold Coast, Australia, 19-22 October, 2025. (Acceptance Rate: 22~25 %)[Conference Page](https://raid2025.github.io/accepted_open.html), [paper](https://ymppjp.github.io/files/RAID_2025_Camera_Ready.pdf). <span style="color:#1E90FF;"><strong>[RAID 2025]</strong></span>  
+* <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Yuji Sekine, Yamato Kawaguchi, Tatsuki Yogo, Kelvin Lubbertsen, Rolf van Wegberg, Michel van Eeten, Katsunari Yoshioka, A Longitudinal Analysis of LockBit 3.0's Extorsion Lifecycle and Response to Law Enforcement, The 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025), Gold Coast, Australia, 19-22 October, 2025. (Acceptance Rate: 22~25 %) [Conference Page](https://raid2025.github.io/accepted_open.html), [paper](https://ymppjp.github.io/files/RAID_2025_Camera_Ready.pdf). <span style="color:#1E90FF;"><strong>[RAID 2025]</strong></span>  
 
 
 * Yukihiro Higashi, Hikaru Matsuzawa, Rui Tanabe, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Poster: Conventional LLM Use Struggles to Generate Sandbox Evasion Code from Unseen Categories, Euro S&P, Venice, June 30 - July 4, 2025. [Poster](https://ymppjp.github.io/files/eurosp25_posters_higashi_kun.pdf). <span style="color:#1E90FF;"><strong>[Poster: Euro S&P]</strong></span> 
@@ -103,7 +103,7 @@ Channels on Telegram at Scale, ICSS, 2026, Japan. [Conference Page](https://ken.
 * Yuji Sekine, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "Analyzing Attackers and Victims Actions via LockBit3.0 Website Data Dynamics", ICSS 2024 Japan, 2024 March 21~22. [Conference Page](https://ken.ieice.org/ken/paper/20240321acCQ/), [paper](https://ymppjp.github.io/files/ICSS2024_Sekine.pdf)
 
 
-* Yamato Kawaguchi, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "ChatGPT Assisted Information Collection System for Cybercrime on Discord", SCIS 2024 Japan, 2024 January 23~26.[Conference Page](https://www.iwsec.org/scis/2024/program.html),[paper](https://ymppjp.github.io/files/2024_SCIS_kawaguchikun.pdf)
+* Yamato Kawaguchi, <strong><strong><em>Yin Minn Pa Pa</em></strong></strong>, Katsunari Yoshioka, Tsutomu Matsumoto, "ChatGPT Assisted Information Collection System for Cybercrime on Discord", SCIS 2024 Japan, 2024 January 23~26. [Conference Page](https://www.iwsec.org/scis/2024/program.html), [paper](https://ymppjp.github.io/files/2024_SCIS_kawaguchikun.pdf)
 
 ## 2023
 
