@@ -157,7 +157,7 @@ section:last-of-type{border-bottom:none;}
 .pub-body{flex:1;}
 .pub-title{font-size:1rem;font-weight:500;color:var(--ink);line-height:1.5;}
 .pub-meta{font-size:0.89rem;color:var(--ink-soft);margin-top:5px;line-height:1.6;}
-.pub-meta .me{color:var(--ink);font-weight:600;}
+.pub-meta .me{color:var(--ink);font-weight:400;}
 .pub-tags{margin-top:8px;display:flex;gap:8px;flex-wrap:wrap;}
 .tag{font-family:'IBM Plex Sans',sans-serif;font-size:0.75rem;padding:3px 11px;border-radius:999px;background:var(--clay-soft);color:var(--clay);}
 .tag.award{background:var(--sage-tint);color:var(--sage-deep);}
