@@ -20,7 +20,7 @@
   --maxw:880px;
 }
 *{box-sizing:border-box;}
-html{scroll-behavior:smooth;}
+html{scroll-behavior:smooth;font-size:18px;}
 body{
   margin:0;
   background:var(--bg);
