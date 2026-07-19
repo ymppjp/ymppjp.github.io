@@ -71,7 +71,7 @@ header.hero{padding:64px 0 56px;}
 .hero-inner{display:flex;gap:36px;align-items:center;flex-wrap:wrap;}
 .hero-photo{
   width:112px;height:112px;border-radius:50%;
-  object-fit:cover;flex-shrink:0;
+  object-fit:cover;object-position:center 15%;flex-shrink:0;
   border:1px solid var(--line);
 }
 .hero-text{flex:1;min-width:280px;}
