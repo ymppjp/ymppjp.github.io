@@ -1,0 +1,199 @@
+/* ============================================================
+   Yin Minn Pa Pa — academic site
+   Design: minimal, warm, professional, calm.
+   Source Serif 4 (headings) / IBM Plex Sans (body) / IBM Plex Mono (dates, used sparingly)
+   ============================================================ */
+
+:root{
+  --bg:#FAF7F2;
+  --panel:#FFFFFF;
+  --panel-dim:#F3EEE6;
+  --ink:#2B2620;
+  --ink-soft:#6E655C;
+  --line:#E8E1D5;
+  --sage:#5C7266;
+  --sage-deep:#42544A;
+  --sage-tint:#EEF1EC;
+  --clay:#AD8760;
+  --clay-soft:#F1E7D9;
+  --radius:12px;
+  --maxw:880px;
+}
+*{box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{
+  margin:0;
+  background:var(--bg);
+  color:var(--ink);
+  font-family:'IBM Plex Sans',sans-serif;
+  line-height:1.65;
+  -webkit-font-smoothing:antialiased;
+}
+h1,h2,h3{
+  font-family:'Source Serif 4',serif;
+  font-weight:600;
+  margin:0;
+  color:var(--ink);
+  letter-spacing:-0.01em;
+}
+a{color:var(--sage-deep);text-decoration:none;}
+a:hover{text-decoration:underline;}
+.mono{font-family:'IBM Plex Mono',monospace;}
+.wrap{max-width:var(--maxw);margin:0 auto;padding:0 28px;}
+.eyebrow{
+  font-family:'IBM Plex Sans',sans-serif;
+  font-size:0.78rem;letter-spacing:0.08em;text-transform:uppercase;
+  color:var(--ink-soft);
+  font-weight:500;
+}
+
+/* ---------- top bar ---------- */
+.topbar{
+  position:sticky;top:0;z-index:50;
+  background:rgba(250,247,242,0.92);
+  backdrop-filter:blur(8px);
+  border-bottom:1px solid var(--line);
+}
+.topbar-inner{
+  max-width:var(--maxw);margin:0 auto;padding:18px 28px;
+  display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;
+}
+.brand{font-family:'Source Serif 4',serif;font-weight:600;font-size:1.08rem;color:var(--ink);}
+.nav-links{display:flex;gap:26px;flex-wrap:wrap;}
+.nav-links a{
+  color:var(--ink-soft);font-size:0.88rem;font-family:'IBM Plex Sans',sans-serif;letter-spacing:0.01em;
+}
+.nav-links a:hover{color:var(--sage-deep);text-decoration:none;}
+.nav-links a.active{color:var(--sage-deep);border-bottom:1.5px solid var(--sage);padding-bottom:3px;}
+
+/* ---------- hero ---------- */
+header.hero{padding:64px 0 56px;}
+.hero-inner{display:flex;gap:36px;align-items:center;flex-wrap:wrap;}
+.hero-photo{
+  width:112px;height:112px;border-radius:50%;
+  object-fit:cover;flex-shrink:0;
+  border:1px solid var(--line);
+}
+.hero-text{flex:1;min-width:280px;}
+.hero-text h1{font-size:2.15rem;line-height:1.15;}
+.hero-role{font-size:0.98rem;color:var(--sage-deep);margin-top:8px;font-weight:500;font-family:'IBM Plex Sans',sans-serif;}
+.hero-institution{color:var(--ink-soft);font-size:0.9rem;margin-top:2px;}
+.hero-blurb{margin-top:16px;max-width:58ch;font-size:0.98rem;color:var(--ink);}
+.hero-links{display:flex;gap:10px;flex-wrap:wrap;margin-top:22px;}
+
+/* ---------- page header (for sub-pages) ---------- */
+.page-header{padding:56px 0 8px;}
+.page-header h1{font-size:2rem;margin-top:10px;}
+.page-lede{color:var(--ink-soft);margin-top:12px;max-width:60ch;font-size:0.96rem;}
+
+/* ---------- pills ---------- */
+.pill{
+  display:inline-flex;align-items:center;gap:6px;
+  padding:8px 16px;border-radius:999px;
+  border:1px solid var(--line);background:var(--panel);
+  font-family:'IBM Plex Sans',sans-serif;font-size:0.85rem;color:var(--ink);
+  transition:all .15s ease;
+}
+.pill:hover{border-color:var(--sage);color:var(--sage-deep);text-decoration:none;background:var(--sage-tint);}
+.pill.solid{background:var(--sage-deep);color:#fff;border-color:var(--sage-deep);}
+.pill.solid:hover{background:var(--sage);}
+
+/* ---------- sections ---------- */
+section{padding:52px 0;border-bottom:1px solid var(--line);}
+section:last-of-type{border-bottom:none;}
+.sec-head{margin-bottom:26px;}
+.sec-head h2{font-size:1.45rem;margin-top:8px;}
+.sec-lede{color:var(--ink-soft);margin-top:10px;max-width:60ch;font-size:0.94rem;}
+
+/* ---------- research / info cards ---------- */
+.grid-cards{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;}
+.card{
+  background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:22px 24px;
+}
+.card h3{font-size:1.02rem;font-weight:600;margin-bottom:8px;font-family:'Source Serif 4',serif;}
+.card p{margin:0;color:var(--ink-soft);font-size:0.9rem;}
+
+/* ---------- awards ---------- */
+.awards{display:flex;flex-direction:column;gap:0;border-top:1px solid var(--line);}
+.award{
+  display:flex;align-items:baseline;gap:16px;padding:14px 2px;border-bottom:1px solid var(--line);
+}
+.award .mono{font-size:0.76rem;color:var(--clay);flex-shrink:0;width:190px;}
+.award strong{font-size:0.9rem;font-weight:500;color:var(--ink);}
+
+/* ---------- publications / talks list ---------- */
+.pub-controls{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:22px;}
+#pubSearch{
+  flex:1;min-width:200px;padding:11px 16px;border-radius:8px;border:1px solid var(--line);
+  background:var(--panel);font-family:'IBM Plex Sans',sans-serif;font-size:0.9rem;color:var(--ink);
+}
+#pubSearch:focus{outline:2px solid var(--sage);outline-offset:1px;}
+#yearFilter{
+  padding:11px 14px;border-radius:8px;border:1px solid var(--line);
+  background:var(--panel);font-family:'IBM Plex Sans',sans-serif;font-size:0.87rem;color:var(--ink);
+}
+.pub-count{font-family:'IBM Plex Sans',sans-serif;font-size:0.82rem;color:var(--ink-soft);margin-bottom:14px;}
+.year-heading{
+  font-family:'Source Serif 4',serif;font-size:1rem;font-weight:600;color:var(--ink);
+  margin:28px 0 10px;padding-bottom:8px;border-bottom:1px solid var(--line);
+}
+.year-heading:first-child{margin-top:0;}
+.pub{display:flex;gap:14px;padding:14px 0;border-bottom:1px solid var(--line);}
+.pub:last-child{border-bottom:none;}
+.pub-marker{flex-shrink:0;width:5px;height:5px;border-radius:50%;background:var(--sage);margin-top:9px;}
+.pub-body{flex:1;}
+.pub-title{font-size:0.96rem;font-weight:500;color:var(--ink);}
+.pub-meta{font-size:0.86rem;color:var(--ink-soft);margin-top:4px;}
+.pub-meta .me{color:var(--ink);font-weight:600;}
+.pub-tags{margin-top:7px;display:flex;gap:8px;flex-wrap:wrap;}
+.tag{font-family:'IBM Plex Sans',sans-serif;font-size:0.72rem;padding:3px 10px;border-radius:999px;background:var(--clay-soft);color:var(--clay);}
+.tag.award{background:var(--sage-tint);color:var(--sage-deep);}
+.pub-links{margin-top:7px;}
+.pub-links a{font-family:'IBM Plex Sans',sans-serif;font-size:0.82rem;margin-right:14px;color:var(--sage-deep);}
+.no-results{color:var(--ink-soft);font-size:0.9rem;padding:20px 0;}
+
+/* ---------- teaching ---------- */
+.teach-grid{display:grid;grid-template-columns:1.3fr 1fr 1fr;gap:14px;}
+.teach-card{border:1px solid var(--line);border-radius:var(--radius);padding:22px 24px;background:var(--panel);}
+.teach-status{
+  font-family:'IBM Plex Sans',sans-serif;font-size:0.72rem;letter-spacing:0.04em;
+  display:inline-block;padding:3px 11px;border-radius:999px;margin-bottom:12px;
+}
+.teach-status.ongoing{background:var(--sage-tint);color:var(--sage-deep);}
+.teach-status.planned{background:var(--clay-soft);color:var(--clay);}
+.teach-card h3{font-size:1.04rem;margin-bottom:7px;font-family:'Source Serif 4',serif;}
+.teach-card p{margin:0;color:var(--ink-soft);font-size:0.89rem;}
+.teach-meta{font-family:'IBM Plex Sans',sans-serif;font-size:0.78rem;color:var(--ink-soft);margin-top:12px;}
+
+/* ---------- timeline ---------- */
+.tl{border-left:1px solid var(--line);margin-left:4px;padding-left:24px;}
+.tl-item{position:relative;padding-bottom:24px;}
+.tl-item:last-child{padding-bottom:0;}
+.tl-item::before{
+  content:'';position:absolute;left:-29px;top:5px;
+  width:7px;height:7px;border-radius:50%;background:var(--sage);border:2px solid var(--bg);
+}
+.tl-date{font-family:'IBM Plex Sans',sans-serif;font-size:0.78rem;color:var(--clay);font-weight:500;}
+.tl-role{font-weight:600;margin-top:3px;font-family:'Source Serif 4',serif;font-size:1.02rem;}
+.tl-org{color:var(--ink-soft);font-size:0.88rem;margin-top:1px;}
+
+/* ---------- misc ---------- */
+.two-col{display:grid;grid-template-columns:1fr 1fr;gap:48px;}
+ul.plain{list-style:none;padding:0;margin:0;}
+ul.plain li{padding:9px 0;border-bottom:1px solid var(--line);font-size:0.9rem;color:var(--ink-soft);}
+ul.plain li:last-child{border-bottom:none;}
+ul.plain li strong{color:var(--ink);font-weight:500;}
+.view-all{margin-top:20px;display:inline-block;}
+
+footer{padding:48px 0 64px;text-align:center;}
+footer .mono{color:var(--ink-soft);font-size:0.82rem;font-family:'IBM Plex Sans',sans-serif;}
+footer .email{font-family:'Source Serif 4',serif;font-size:1.15rem;color:var(--sage-deep);display:inline-block;margin:16px 0;}
+
+@media (max-width:720px){
+  .grid-cards{grid-template-columns:1fr;}
+  .teach-grid{grid-template-columns:1fr;}
+  .two-col{grid-template-columns:1fr;gap:8px;}
+  .hero-text h1{font-size:1.75rem;}
+  .award{flex-direction:column;gap:4px;}
+  .award .mono{width:auto;}
+}
