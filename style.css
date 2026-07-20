@@ -116,7 +116,6 @@ section:last-of-type{border-bottom:none;}
 
 /* ---------- research / info cards ---------- */
 .grid-cards{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;}
-.research-cards .card-wide{grid-column:1 / -1;}
 .card{
   background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:24px 26px;
   box-shadow:var(--shadow-sm);transition:box-shadow .15s ease, transform .15s ease;
