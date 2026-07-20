@@ -116,12 +116,25 @@ section:last-of-type{border-bottom:none;}
 
 /* ---------- research / info cards ---------- */
 .grid-cards{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;}
+.research-cards .card-wide{grid-column:1 / -1;}
 .card{
   background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:24px 26px;
   box-shadow:var(--shadow-sm);transition:box-shadow .15s ease, transform .15s ease;
+  position:relative;
 }
 .card:hover{box-shadow:var(--shadow-md);transform:translateY(-2px);}
+.card-num{
+  display:inline-flex;align-items:center;justify-content:center;
+  width:26px;height:26px;border-radius:50%;
+  background:var(--sage-tint);color:var(--sage-deep);
+  font-family:'IBM Plex Sans',sans-serif;font-size:0.8rem;font-weight:600;
+  margin-bottom:12px;
+}
 .card h3{font-size:1.08rem;font-weight:600;margin-bottom:9px;font-family:'Source Serif 4',serif;}
+.card-question{
+  font-family:'Source Serif 4',serif;font-style:italic;
+  color:var(--sage-deep);font-size:0.98rem;margin:0 0 10px;
+}
 .card p{margin:0;color:var(--ink-soft);font-size:0.93rem;line-height:1.65;}
 
 /* ---------- awards ---------- */
@@ -157,7 +170,7 @@ section:last-of-type{border-bottom:none;}
 .pub-body{flex:1;}
 .pub-title{font-size:1rem;font-weight:500;color:var(--ink);line-height:1.5;}
 .pub-meta{font-size:0.89rem;color:var(--ink-soft);margin-top:5px;line-height:1.6;}
-.pub-meta .me{color:var(--ink);font-weight:400;}
+.pub-meta .me{color:var(--ink);font-weight:600;}
 .pub-tags{margin-top:8px;display:flex;gap:8px;flex-wrap:wrap;}
 .tag{font-family:'IBM Plex Sans',sans-serif;font-size:0.75rem;padding:3px 11px;border-radius:999px;background:var(--clay-soft);color:var(--clay);}
 .tag.award{background:var(--sage-tint);color:var(--sage-deep);}
